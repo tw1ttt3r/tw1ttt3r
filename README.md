@@ -8,7 +8,7 @@ Quiero dejar mi huella en el mundo, y se que la programación es el mejor camino
 
 ![Tw1ttt3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=tw1ttt3r&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tw1ttt3r)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tw1ttt3r&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://www.codewars.com/users/tw1ttt3r/badges/large" alt="tw1ttt3r's DEV Profile" height="90" width="500">
 
