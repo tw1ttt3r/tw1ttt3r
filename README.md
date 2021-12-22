@@ -6,7 +6,7 @@ Soy un humano.
 
 Quiero dejar mi huella en el mundo, y se que la programación es el mejor camino.
 
-![Tw1ttt3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=tw1ttt3r&show_icons=true&theme=radical)
+![Tw1ttt3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=tw1ttt3r&show_icons=true&theme=dark)
 
 <img src="https://www.codewars.com/users/tw1ttt3r/badges/large" alt="tw1ttt3r's DEV Profile" height="90" width="500">
 
