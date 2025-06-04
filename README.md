@@ -27,13 +27,12 @@ Apasionado por crear soluciones innovadoras, liderar equipos y compartir conocim
 
 ### 🛠 Otras Herramientas
 ![SCRUM](https://img.shields.io/badge/-SCRUM-009DDC?logo=scrumban&logoColor=white)
-![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black)
 
 ---
 
 ## 💼 Experiencia Laboral Destacada
 
-### 🏢 **IDS Comercial** (2023-2025)  
+### 🏢 **IDS Comercial** (2023-Actual)  
 - **Líder Técnico / Desarrollador Fullstack Senior**  
   - Proyectos para Pluxee, Santander y Sodexo  
   - Angular, análisis de requerimientos, liderazgo técnico  
