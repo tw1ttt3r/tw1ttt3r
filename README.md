@@ -6,6 +6,10 @@ Apasionado por crear soluciones innovadoras, liderar equipos y compartir conocim
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tw1ttt3r)](https://git.io/streak-stats)
+
+---
+
 ## 🔧 Tecnologías y Lenguajes
 
 ### 💻 Frontend
