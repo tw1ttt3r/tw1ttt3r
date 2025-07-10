@@ -6,7 +6,7 @@ Apasionado por crear soluciones innovadoras, liderar equipos y compartir conocim
 
 ---
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tw1ttt3r&theme=dark&hide_border=true&border_radius=4&locale=es" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tw1ttt3r&theme=dark&hide_border=true&border_radius=4&locale=es&type=png" alt="GitHub Streak" /></a>
 
 ---
 
