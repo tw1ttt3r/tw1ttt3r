@@ -38,7 +38,7 @@ Apasionado por crear soluciones innovadoras, liderar equipos y compartir conocim
 
 ### 🏢 **IDS Comercial** (2023-Actual)  
 - **Líder Técnico / Desarrollador Fullstack Senior**  
-  - Proyectos para Pluxee, Santander y Sodexo  
+  - Proyectos para Pluxee, Santander, Sodexo y Citi  
   - Angular, análisis de requerimientos, liderazgo técnico  
 
 ### 🎓 **Bedu** (2019-2022)  
@@ -53,7 +53,8 @@ Apasionado por crear soluciones innovadoras, liderar equipos y compartir conocim
 
 ### 🚀 **Simios Soluciones** (2023-Actual)  
 - **Líder de Desarrollo y Tecnología**  
-  - Toma de decisiones técnicas y gestión de equipos  
+  - Toma de decisiones técnicas y gestión de equipos
+  - Desarrollo de funcionalidades
 
 ---
 
